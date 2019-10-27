@@ -1,0 +1,63 @@
+h1 {
+    color:red;
+    text-align:center;
+}
+
+h3 {
+    color:rgb(0, 26, 255);
+    text-align:center;
+}
+
+h2 {
+    color:rgb(0, 26, 255);
+    
+}
+
+td {
+    color:rgb(255, 0, 0);
+    
+}
+
+div#formDiv {
+    background-color: teal;
+    width: 600px;
+    height: 400px;
+    margin: 45px;
+    padding: 80px;
+    border: 3px solid blue;
+
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+div#tDiv {
+    background-color: rgb(128, 0, 75);
+    width: 600px;
+    height: 400px;
+    margin: 45px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    border: 3px dotted rgb(0, 255, 85);
+}
+
+#tableID {
+            border: 2px solid black;
+            border-collapse: collapse;
+    }
+
+th, td {
+        border: 1px solid black;
+        padding: 5px; 
+    }
+
+ th {
+    background-color: lightgray;
+
+ }   
+
+
+
+
